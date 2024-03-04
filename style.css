@@ -61,6 +61,7 @@
    .quiz-item h3:before {
      counter-increment: quiz-item;
      content: counter(quiz-item);
+     color: #E2E8F0;
      font-size: 12px;
      border-radius: 50%;
 
